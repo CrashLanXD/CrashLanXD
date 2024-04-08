@@ -11,7 +11,31 @@
 ![GitHub Followers](https://img.shields.io/github/followers/crashlanxd?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/crashlanxd?style=social)
 
-próximamente ingeniero de software?
+Hola! soy Eduardo (CLXD)
+Desarrollador en formación | Amante de la programación y los algoritmos | Futuro ingeniero de software
+
+---
+
+Sobre mi carrera
+- Objetivo: Convertirme en un ingeniero de software.
+- Experiencia: En constante aprendizaje y desarrollo como trainee en programación.
+- Lenguajes de programación: Java, JavaScript, C++. También tengo conocimientos en Python, C#, PHP.
+
+Proyectos destacados
+- JavaScript: Actualmente trabajando en un proyecto personal que consta de 100 mini proyectos en JavaScript. Algunos ejemplos incluyen:
+  - Sand falling simulation
+  - Elementary cellular automata
+  - Wave function collapse
+  - Game of Life
+
+Intereses
+Algoritmos: Apasionado por los algoritmos, especialmente aquellos desafiantes.
+Juegos: Me encanta la idea de crear juegos y estoy explorando este campo en mis proyectos de desarrollo. pero no mucho.
+
+---
+
+contacto
+ - crashlanxd@gmail.com
 
 ## Tecnologías:
 
