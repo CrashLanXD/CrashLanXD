@@ -30,12 +30,12 @@ Proyectos destacados
 
 Intereses
 Algoritmos: Apasionado por los algoritmos, especialmente aquellos desafiantes.
-Juegos: Me encanta la idea de crear juegos y estoy explorando este campo en mis proyectos de desarrollo. pero no mucho.
+Juegos: Me gusta explorar la creación de juegos, especialmente proyectos más pequeños como Tetris. Mi interés principal radica en la mecánica y la lógica detrás de estos.
 
 ---
 
-contacto
- - crashlanxd@gmail.com
+## Contacto
+[![Email](https://img.shields.io/badge/crashlanxd@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ECA311)](mailto:crashlanxd@gmail.com)
 
 ## Tecnologías:
 
