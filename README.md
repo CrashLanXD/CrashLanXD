@@ -21,12 +21,18 @@ Sobre mi carrera
 - Experiencia: En constante aprendizaje y desarrollo como trainee en programación.
 - Lenguajes de programación: Java, JavaScript, C++. También tengo conocimientos en Python, C#, PHP.
 
-Proyectos destacados
-- JavaScript: Actualmente trabajando en un proyecto personal que consta de 100 mini proyectos en JavaScript. Algunos ejemplos incluyen:
-  - Sand falling simulation
-  - Elementary cellular automata
-  - Wave function collapse
-  - Game of Life
+## Proyectos destacados
+**{ 101 Proyectos JS }**
+Un emocionante proyecto personal llamado { 101 Proyectos de JavaScript }. Este proyecto consiste en la creación de 101 proyectos de JavaScript vanilla, cada uno diseñado para explorar y dominar diferentes conceptos y técnicas en el desarrollo web.
+
+Algunos ejemplos notables incluyen:
+
+1. Tetris:
+  - Inspirado en el clásico juego de Tetris de la Game Boy original, este proyecto busca recrear la experiencia de juego nostálgica.
+2. Breakout:
+  - Basado en el icónico juego de Breakout de Atari 2600.
+3. Simulación de Caída de Arena (Sand Falling Simulation):
+  - Explorando la dinámica de la gravedad y la interacción de partículas.
 
 Intereses
 Algoritmos: Apasionado por los algoritmos, especialmente aquellos desafiantes.
